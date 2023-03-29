@@ -25,13 +25,13 @@ global.ownernomer = '94761539856' // Add Your number Eg: ['94742443114']
 
 //Don't edit enithing\\
 global.APIs = APIs
-global.oownername =
-global.botname = botname
-global.footer = footer
+global.oownername = Dumidu 
+global.botname = divert-flowers
+global.footer = divert-flowers
 global.ig = ig
 global.region = region
 global.myweb = myweb
-global.packname = packname
+global.packname = divert-flowers
 global.author = author
 global.sessionName = sessionName
 global.prefa = prefa 
